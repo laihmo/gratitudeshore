@@ -1,6 +1,6 @@
 # Privacy Policy for Gratitude Shore
 
-Last updated: May 2026
+Last updated: June 2026
 
 Gratitude Shore ("the App") is committed to protecting your privacy. This Privacy Policy explains how information is handled when you use the App.
 
@@ -11,16 +11,6 @@ Gratitude Shore is designed to help users practice gratitude and reflection.
 The App may store journal entries, reflections, settings, and preferences on your device to provide its functionality.
 
 We do not sell your personal information.
-
-## Subscription Services
-
-The App uses RevenueCat to manage subscriptions and in-app purchases.
-
-RevenueCat may process certain information related to your subscription status, purchases, and device identifiers in order to provide subscription functionality.
-
-For more information, please review RevenueCat's Privacy Policy:
-
-https://www.revenuecat.com/privacy
 
 ## Analytics and Technical Data
 
@@ -52,8 +42,7 @@ The App is not specifically directed to children under the age of 13.
 
 The App may rely on third-party service providers, including:
 
-- RevenueCat (subscription management)
-- Apple App Store (payments and distribution)
+- Apple App Store (distribution)
 
 These providers have their own privacy policies governing their services.
 
